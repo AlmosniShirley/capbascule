@@ -3,7 +3,7 @@
 Site d'une page, statique, publié avec GitHub Pages depuis la branche `main`.
 Tout tient dans `index.html` : pas de build, pas de dépendance à installer.
 
-Adresse actuelle : https://almosnishirley.github.io/CAP90/
+Adresse actuelle : https://almosnishirley.github.io/capbascule/ (bientôt https://capbascule.fr)
 
 L'ancien site CAP90 (offres Alerte, Prévention, Relais) est conservé dans le tag Git `cap90-archive`.
 
